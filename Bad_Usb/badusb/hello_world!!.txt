@@ -1,0 +1,14 @@
+REM hello world!! is the first script by mostliklyaturtl
+REM this is a simple plug and play to automate repetative narrative work
+DELAY 1000
+
+GUI r
+DELAY 1000
+
+STRING notepad
+ENTER
+DELAY 1000
+
+STRING hello world!!
+
+REM feel free to add another string for your narrative
